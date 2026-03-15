@@ -42,7 +42,7 @@
     }
   ],
   "engines": {
-    "node": ">=14.0.0"
+    "node": ">=18.0.0"
   },
   "private": false,
   "publishConfig": {
@@ -51,7 +51,7 @@
   "dependencies": {
     "@cosmos-client/core": "^0.46.1",
     "@jup-ag/api": "^6.0.12",
-    "@modelcontextprotocol/sdk": "^1.4.1",
+    "@modelcontextprotocol/sdk": "^1.27.1",
     "@psf/bitcoincashjs-lib": "^4.0.3",
     "@solana/spl-token": "^0.4.1",
     "@solana/web3.js": "^1.87.6",
